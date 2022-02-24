@@ -50,6 +50,7 @@ class MyApp extends StatelessWidget {
                   width: 150,
                   height: 100,
                   decoration: const BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(13)),
                       color: Colors.white,
                     boxShadow: [
                       BoxShadow(
@@ -83,6 +84,7 @@ class MyApp extends StatelessWidget {
                   width: 150,
                   height: 100,
                   decoration: const BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(13)),
                       color: Colors.white,
                       boxShadow: [
                         BoxShadow(
@@ -121,6 +123,7 @@ class MyApp extends StatelessWidget {
                   width: 150,
                   height: 100,
                   decoration: const BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(13)),
                       color: Colors.white,
                       boxShadow: [
                         BoxShadow(
@@ -154,6 +157,7 @@ class MyApp extends StatelessWidget {
                   width: 150,
                   height: 100,
                   decoration: const BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(13)),
                       color: Colors.white,
                       boxShadow: [
                         BoxShadow(
